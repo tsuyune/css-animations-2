@@ -1,1 +1,1 @@
-[GitHub Pages](https://toshiteshigure.github.io/css-animations-2/)
+[GitHub Pages](https://tsuyune.github.io/css-animations-2/)
